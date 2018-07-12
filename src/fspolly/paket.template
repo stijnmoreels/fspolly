@@ -1,0 +1,29 @@
+type file
+id fspolly
+title
+    fspolly
+owners
+    Stijn Moreels
+authors 
+    Stijn Moreels
+projectUrl
+    https://github.com/stijnmoreels/fspolly/stijnmoreels/fspolly
+iconUrl
+    https://raw.githubusercontent.com/stijnmoreels/fspolly/master/docs/files/img/logo.png
+licenseUrl
+    https://github.com/stijnmoreels/fspolly/stijnmoreels/fspolly/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+language
+    F#
+copyright
+    Copyright 2017
+tags
+    fsharp functional retry polling backoff linear-backoff exponential-backoff circuit-broker
+summary
+    F# retry functionality package inspired by the C# Polly library
+description
+    F# retry functionality package inspired by the C# Polly library. This package allows you to write more cleaner retry-code in a functional style, supporting various kinds of retry functionality such as Linear/Exponential Backoff, Circuit Broker...
+
+files
+	../../bin/fspolly ==> lib
